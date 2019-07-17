@@ -1,0 +1,4 @@
+applications:
+- name: prospectcrm
+  memory: 256M
+  instances: 1
